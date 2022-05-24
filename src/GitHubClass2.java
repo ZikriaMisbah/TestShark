@@ -16,6 +16,6 @@ public class GitHubClass2 {
 	}
 	String name = "United States of America";
 	StringBuilder build = new StringNuilder(name)
-	System.ou.println(build.reverse());
+	System.out.println(build.reverse());
 
 }
