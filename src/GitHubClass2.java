@@ -14,7 +14,7 @@ public class GitHubClass2 {
 			System.out.println("c is largest number");
 
 	}
-	//changes
+	//new changes
 	String name = "United States of America";
 	StringBuilder build = new StringNuilder(name)
 	System.out.println(build.reverse());
