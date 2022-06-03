@@ -12,7 +12,7 @@ public class GitHubClass2 {
 			System.out.println("b is largest number");
 		} else
 			System.out.println("c is largest number");
-        // Changes from remote repo
+       
 	}
 	
 }
